@@ -1,0 +1,6 @@
+name: SafeTNT
+author: UnknownBallin
+main: UnknownBallin\SafeTNT\SafeTNT
+version: 1.0.0
+api: 3.0.0
+description: Disable block breaking from TNT on your server
